@@ -31,7 +31,7 @@ Patrimonio são as ações da empresa. O quanto a empresa deve aos acionistas/s�
 Para uma Transação ser válida. Ativos = Passivos + Patrimônio ou  A = L + OE. Ou seja a quantidade de ativos é igual a soma dos passivos mais o patrimônio.
 
 
-##Relatório de Resultados (Income statement)
+## Relatório de Resultados (Income statement)
 
 ### Lucro
 Lucros são registrados no relatório se uma venda foi feita com sucesso. Não ocorre se a venda ocorre no futuro. Como exemplo, no caso de o produto ser comprado mas não ser entregue.  
