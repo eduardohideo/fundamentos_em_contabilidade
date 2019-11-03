@@ -8,8 +8,8 @@ Os Estados Unidos não consegue migrar para o IFRS por questões tributarias. Qu
 O curso foca no US GAAP.  
 
 O relatório financeiro é separado em três partes:  
-**Balanço financeiro (Balance Sheet)**: motra todas as transações desde o começo da empresa até o momento presente. Como se fosse uma foto tirada no momento da empresa.  
-**Relatório de resultados(Income Statement)**: mostra os lucros e os prejuizos que ocorreram desde o começo do ano até o final.  
+**Balanço Patrimonial (Balance Sheet)**: motra todas as transações desde o começo da empresa até o momento presente. Como se fosse uma foto tirada no momento da empresa.  
+**Demostração do Resultados do Exercício(Income Statement)**: mostra os lucros e os prejuizos que ocorreram desde o começo do ano até o final.  
 **Relatório de fluxo de Caixa(Cash flow Statment)**: mostra o fluxo de caixa da empresa, como está sendo alocado os recursos da empresa. Como se fosse um vídeo mostrando oque aconteceu no durante o ano.  
 
 ## Transações
@@ -31,8 +31,6 @@ Patrimonio são as ações da empresa. O quanto a empresa deve aos acionistas/s�
 Para uma Transação ser válida. Ativos = Passivos + Patrimônio ou  A = L + OE. Ou seja a quantidade de ativos é igual a soma dos passivos mais o patrimônio.
 
 
-## Relatório de Resultados (Income statement)
-
 ### Lucro
 Lucros são registrados no relatório se uma venda foi feita com sucesso. Não ocorre se a venda ocorre no futuro. Como exemplo, no caso de o produto ser comprado mas não ser entregue.  
 ### Gastos
@@ -44,3 +42,16 @@ Algumas vezes, as transações deixam de serem registradas porque vão ocorrer a
 **ganho deferido (deferred revenue)**: ganho realizado. O serviço não foi feito, porém o pagamento foi realizado. É registrado o ganho deferido como uma redução do passivo e um aumento no patrimonio como lucro acumulado. ex: o usuario fez a assinatura de uma revista, a empresa ainda não entregou o produto, e o cliente pode desistir de assinar, nesse caso, no final do ano é gravado como ganho deferido.  
 **gasto deferido (deferred expensive)**: Gasto realizado. É feito a compra de um serviço porém o recebimento desse serviço só será feito no futuro. É registrado o pre-pagamento como redução de ativos e a redução do lucro acumulado. Por exemplo: pagamento de seguro para os funcionarios, a empresa fez o pagamento mas o serviço não foi realizado, é gravado como gasto deferido.  
 **ganho acumulado (accrued revenue)**: O serviço foi feito porém o pagamento será feito no futuro. É incrementado como ganho futuro e incrementado o lucro acumulado. Como no caso de alugar para uma empresa um terreno, no futuro será feito o pagamento.  
+
+## Como é feito o relatório de Balanço Patrimonial
+Basta colocar todas as transações que ocorreram até o momento atual.
+
+## Como é feito o relatório de Demostração de Resultado do Exercício (DRE)
+No relatório é consultado o T-account do lucro acumulado da empresa (retained earning) ou seja todas as transações que estão relacionadas a lucro ou gasto considerando apenas o determinado ano. Lembrando que é retirado os dividendos no DRE mas é registrado como lucro acumulado negativo.
+
+## Como é feito o relatório de Fluxo de Caixa
+O relatório do Fluxo de Caixa é separado em 3 partes:
+
+atividades de financiamento (financial activities): referente a transações relacionadas a investidores e credores.
+atividades de investimento (Investing activities): referente a transações relacionadas a investimentos, compra e venda de Ativos
+atividades de operação (Operation activities): referente a tranações relacionadas ao negócio da empresa, como compra de materia-prima e venda de produtos e serviços.
